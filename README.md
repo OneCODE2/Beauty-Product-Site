@@ -1,25 +1,12 @@
  [Dermstore](https://dermstore-01.netlify.app)
+ [DermStore](https://www.dermstore.com)
 
 
 ## Dermstore Landing Page 👇 💻
-On the Home Page, there are many options like a search bar where users can search products by product name or Brand, then there is also an account option where users can log in or signup and beside it, a cart option is also there and by clicking on the cart option users can see the products which they have added to the cart.
-users can also see new arrivals products and scroll through them just by clicking the buttons which are present on the left and right sides.
 
-
-## About Project: 
-
-## DermStore Link:- [DermStore](https://www.dermstore.com)
-
-DermStore is a skin care and beauty e-commerce site in the United States.
-It is one of the best places to find some of the highest quality skincare, makeup, haircare, and so much more for both women and men.
+DermStore is a skin care and beauty e-commerce site . It is one of the best places to find some of the highest quality skincare, makeup, haircare, and so much more for both women and men.
 DermStore was founded by dermatologist Craig Kraffert in 1999. In 2012, the company expanded from distributing professional skin care, to consumer cosmetics brands.
-Since December 2020, it is a subsidiary of The Hut Group which is a British e-commerce company.
 
-## OUR WORK :
-
-We have tried to create as many features as we can of this website. Some of the pages and features which we created are :
-Home Page, log In page, signUp page, sell page, add to cart, checkout page, functionality to add any product to cart page and displaying its details and total amount, functionality to scroll horizontally on the home page through buttons in various sections, functionality to get the product description if you click its image on all pages except for homepage and functionality to sort the products in some of the pages.
-Here are some sample snippets of our cloned website.
 
 ## Home Page :
 
