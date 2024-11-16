@@ -1,14 +1,5 @@
-> • Netlify Deployed Link - [Dermstore](https://dermstore-01.netlify.app)
+ [Dermstore](https://dermstore-01.netlify.app)
 
-*System display size 💻 = 1024 to 1680 pixels*
-<br>
-# Problem Statement
-
-Our Problem statement is to build a pixel-perfect Dermstore website clone. Previously I cloned two websites and some web pages but in this problem, we were supposed to make pages dynamic and responsive too.
-
-## Idea
-
-Since I'm pursuing a Full Stack Web Development course at Masai School I was given a project to clone **Dermstore ** which is a skincare and beauty e-commerce site in the United States. Since December 2020, it is a subsidiary of The Hut Group which is a British e-commerce company.  I was given a team of five members including me and the task was to clone the pixel-perfect clone of the website. Let's look at how we designed it 👇
 
 ## Dermstore Landing Page 👇 💻
 On the Home Page, there are many options like a search bar where users can search products by product name or Brand, then there is also an account option where users can log in or signup and beside it, a cart option is also there and by clicking on the cart option users can see the products which they have added to the cart.
