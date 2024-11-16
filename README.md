@@ -1,8 +1,6 @@
- [Dermstore](https://dermstore-01.netlify.app)
- [DermStore](https://www.dermstore.com)
-
 
 ## Dermstore Landing Page 👇 💻
+ [Dermstore](https://dermstore-01.netlify.app)
 
 DermStore is a skin care and beauty e-commerce site . It is one of the best places to find some of the highest quality skincare, makeup, haircare, and so much more for both women and men.
 DermStore was founded by dermatologist Craig Kraffert in 1999. In 2012, the company expanded from distributing professional skin care, to consumer cosmetics brands.
