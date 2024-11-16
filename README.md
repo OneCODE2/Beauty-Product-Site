@@ -1,10 +1,8 @@
-
 ## Dermstore Landing Page 👇 💻
  [Dermstore](https://dermstore-01.netlify.app)
 
 DermStore is a skin care and beauty e-commerce site . It is one of the best places to find some of the highest quality skincare, makeup, haircare, and so much more for both women and men.
 DermStore was founded by dermatologist Craig Kraffert in 1999. In 2012, the company expanded from distributing professional skin care, to consumer cosmetics brands.
-
 
 ## Home Page :
 
@@ -42,17 +40,6 @@ This is the Checkout page, which is the last page of the website. The user will 
 ![App Screenshot](https://snipboard.io/jt5UFD.jpg)
 
 
-
-
-## Team Members
-
-> ### • [Ayush Kumar](https://github.com/ayush-kr05)
-> ### • [Rupesh Karale](https://github.com/rupeshkarale)
-> ### • [Vaibhav Suryawanshi](https://github.com/Vaibhav3534)
-> ### • [Krishna Chaturvedi](https://github.com/krishnachaturvedi1901)
-> ### • [Md Talib](https://github.com/talib789)
-
-
 ## Technology Used
 > • React,
 > • React-Redux,
@@ -69,9 +56,6 @@ This is the Checkout page, which is the last page of the website. The user will 
 > • Heroku
 > • Git
 
-## 📒 Blog
-
-If you are interested in knowing more about this project...like how we made it and in what time then check [DermStore](https://talib123.hashnode.dev/dermstorecom-website-clone-construct-week-unit-06) out! 
 
 ## Team Work Efforts 
 
